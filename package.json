@@ -1,0 +1,54 @@
+{
+  "_args": [
+    [
+      "react-animated-router@0.1.13",
+    ]
+  ],
+  "_from": "react-animated-router@0.1.13",
+  "_id": "react-animated-router@0.1.13",
+  "_inBundle": false,
+  "_integrity": "sha512-AbZvxrqMkX0iQEzw+ecmWgUKZNwAWof5kWaGVaUXIRUIEThaDUQybdp7mKiFWvqUVQJRU4W/wTSB2uQLTJdfNA==",
+  "_location": "/react-animated-router",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-animated-router@0.1.13",
+    "name": "react-animated-router",
+    "escapedName": "react-animated-router",
+    "rawSpec": "0.1.13",
+    "saveSpec": null,
+    "fetchSpec": "0.1.13"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-animated-router/-/react-animated-router-0.1.13.tgz",
+  "_spec": "0.1.13",
+  "author": {
+    "name": "qiqiboy"
+  },
+  "bugs": {
+    "url": "https://github.com/huangdawei/react-animated-router/issues"
+  },
+  "description": "Dynamic transitions with react-router and react-transition-group",
+  "homepage": "https://github.com/huangdawei/react-animated-router#readme",
+  "license": "ISC",
+  "main": "./AnimatedRouter.js",
+  "name": "react-animated-router",
+  "peerDependencies": {
+    "react": ">15.6.1",
+    "react-dom": ">15.6.1",
+    "prop-types": ">15.5.10",
+    "react-transition-group": ">2.0.0",
+    "react-router": ">4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://qiqiboy@github.com/huangdawei/react-animated-router.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.13"
+}
